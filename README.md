@@ -1,2 +1,2 @@
 # Copia-da-Netflix
-Teste para copia da Netflix
+Copia da Netflix
